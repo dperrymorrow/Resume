@@ -43,7 +43,7 @@ I worked as a production artist supporting designers & art directors, and later 
 **School of Visual Arts Manhattan** *(bachelor’s degree in graphic design)* | 06.1999  
 Received a bachelor’s degree after completing a four year intensive graphic design program. Areas of concentration during my thesis projects included packaging and editorial design.
 
-###kills
+##Skills
 Ruby On Rails, Javascript, jQuery, Backbone.js, Bootstrap, Jasmine, QUnit, HAML, SASS, CoffeeScript, CSS3, HTML5, MySQL, Photoshop, Illustrator, After Effects
 
 ##Areas of Expertise
