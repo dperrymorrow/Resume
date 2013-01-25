@@ -6,7 +6,7 @@
 - [Coderwall](http://coderwall.com/dperrymorrow)
 - [Linkedin](http://linkedin.com/in/davidmorrow)
 
-###Work Experience
+##Work Experience
 
 **New Relic** *(Rails/UI Developer)* | 06.12 - Present  
 Work with the Rails app that allows customers of New Relic to monitor their applications and servers. Built new features such as Custom Dashboards, Key Transactions and others. Also maintain and support the existing codebase on a day to day basis.
@@ -39,17 +39,17 @@ I designed various sites for IBM including; IBM.com, pervasive computing, Linux,
 **Icon Nicholson** *(designer/production artist)* | 05.96 - 06.99  
 I worked as a production artist supporting designers & art directors, and later as a designer. Partial client list includes; Metropolitan Museum of Art, Readers Digest, Thomas Register, and E-Trade.
 
-###Education
+##Education
 **School of Visual Arts Manhattan** *(bachelor’s degree in graphic design)* | 06.1999  
 Received a bachelor’s degree after completing a four year intensive graphic design program. Areas of concentration during my thesis projects included packaging and editorial design.
 
-###Skills
+###kills
 Ruby On Rails, Javascript, jQuery, Backbone.js, Bootstrap, Jasmine, QUnit, HAML, SASS, CoffeeScript, CSS3, HTML5, MySQL, Photoshop, Illustrator, After Effects
 
-###Areas of Expertise
+##Areas of Expertise
 Developing rich client side applications driven from restful JSON server side endpoints. Test Driven Development using Backbone.js on a Ruby On Rails REST endpoints. I am a developer with a designers attention to detail.
 
-###Awards 
+##Awards 
 **Mercedes AMG**
 
 - Macromedia Site of the Day
