@@ -31,6 +31,12 @@
   </tr>
   <tr>
     <td>
+      <a href="http://dperrymorrow.github.com/Resume/Resume.pdf" target="_blank">Resume as PDF</a>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
       <a href="http://linkedin.com/in/davidmorrow" target="_blank">Linkedin</a>
     </td>
     <td>
