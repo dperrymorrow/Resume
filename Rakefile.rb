@@ -29,10 +29,14 @@ eos
     # `open "index.html"`
   end
 
-  desc "publish the index page and the pdf and push to gh-pages branch"
-  task :site do
+  desc "publish the index page and the pdf"
+  task :all do
     Rake::Task["generate:pdf"].execute
     Rake::Task["generate:index"].execute
+  end
+  
+  desc "push to gh-pages branch"
+  task :publish do
     `git add -A`
     `git commit -m "publishing pdf and index.html"`
     `git push origin master`
