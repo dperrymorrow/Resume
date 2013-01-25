@@ -67,7 +67,7 @@ Developing rich client side applications driven from restful JSON server side en
 - Horizon Interactive *(gold)*
 - BDA Design Award *(gold)*
 
-**NikeGoddess.com **
+**NikeGoddess.com**
 
 - BDA Design Award *(silver)*
 - One Show *(silver)*
