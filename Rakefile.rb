@@ -33,7 +33,8 @@ eos
   task :site do
     Rake::Task["generate:pdf"].execute
     Rake::Task["generate:index"].execute
-    `git commit -am "publishing pdf and index.html"`
+    `git add -A`
+    `git commit -m "publishing pdf and index.html"`
     `git push origin master`
     `git checkout gh-pages`
     `git merge origin/master`
