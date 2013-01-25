@@ -8,7 +8,7 @@
 
 ###Work Experience
 
-####**New Relic** *(Rails/UI Developer)* | 06.12 - Present  
+**New Relic** *(Rails/UI Developer)* | 06.12 - Present  
 Work with the Rails app that allows customers of New Relic to monitor their applications and servers. Built new features such as Custom Dashboards, Key Transactions and others. Also maintain and support the existing codebase on a day to day basis.
 
 **Collective Intellect (now Oracle)** *(Rails/UI Developer)* | 11.11 - 07.12  
