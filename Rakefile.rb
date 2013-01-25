@@ -26,7 +26,7 @@ eos
     content = GitHub::Markup.render('README.md')
     file = File.open "index.html", "w"
     file.write html_file.gsub('<!--the content-->', content)
-    `open "index.html"`
+    # `open "index.html"`
   end
 
   desc "publish the index page and the pdf and push to gh-pages branch"
@@ -36,8 +36,7 @@ eos
     `git commit -am "publishing pdf and index.html"`
     `git push origin master`
     `git checkout gh-pages`
-    `git pull origin master`
-    `git push origin gh-pages`
+    `git merge origin/master`
     `git checkout master`
   end
 end
