@@ -1,6 +1,14 @@
 require 'prawn'
 require 'github/markup'
 
+task :prawn_test do
+  desc "test prawn"
+  Prawn::Document.generate('test.pdf') do |pdf|
+    puts "running"
+    pdf.text("<h1>foo</h1>")
+  end
+end
+
 namespace :generate do
   desc "Generate a pdf from the Readme doc"
   task :pdf do
@@ -8,9 +16,10 @@ namespace :generate do
     `gimli -merge -stylesheet styles.css -outputfilename Resume -file README.md`
   end
 
+
   desc "Generate the html from the markdown for the index"
   task :index do
-    html_file = <<eos 
+    html_file = <<eos
 <html>
 <head>
   <title>David Morrow Resume</title>
@@ -34,7 +43,7 @@ eos
     Rake::Task["generate:pdf"].execute
     Rake::Task["generate:index"].execute
   end
-  
+
   desc "push to gh-pages branch"
   task :publish do
     `git add -A`

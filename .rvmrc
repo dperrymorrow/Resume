@@ -1,1 +1,1 @@
-rvm use 1.9.3@Resume --create
+rvm use 2.0@Resume --create
