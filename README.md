@@ -71,13 +71,13 @@ Horizon Interactive *(gold)*,
 BDA Design Award *(gold)*  
 
 **NikeGoddess.com**: 
+Horizon Interactive *(gold)*, 
 BDA Design Award *(silver)*, 
 One Show *(silver)*, 
 Omni Awards *(silver)*, 
-Horizon Interactive *(gold)*, 
 Art Director Club *(merit)*
 
-**NikePresto.com**:  
+**NikePresto.com**: 
 eDesign *(gold)*, 
 Clio Award *(bronze)*, 
 Horizon Interactive *(gold)*, 
@@ -97,6 +97,6 @@ One Show *(bronze)*
 Omni Awards: editing *(silver)*
 
 **AICP Award Ceremony Titles** 
-Omni Awards: graphics *(silver)*, 
 Omni Awards: Cinematography *(gold)*, 
-Omni Awards: communications *(gold)*
+Omni Awards: communications *(gold)*,
+Omni Awards: graphics *(silver)*
