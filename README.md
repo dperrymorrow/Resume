@@ -10,8 +10,8 @@
 
 ##Work Experience
 
-**Measureful** *(Rails/UI Developer)* | 03.13 - Present  
-Developed and maintained Measureful.com web application. An early stage startup distilling client's analytics, and displaying them in a beautiful and concise way. Role included defining sprints and feature sets and rapidly prototyping and delivering them to growing customer base. Also worked closely with founder to design and build look of info-graphics and user interface, and other graphics for the application.
+**Measureful (now Chirpify)** *(Rails/UI Developer)* | 03.13 - Present  
+Developed and maintained Measureful.com web application. An early stage startup distilling client's analytics, and displaying them in a beautiful and concise way. Role included defining sprints and feature sets and rapidly prototyping and delivering them to growing customer base. Also worked closely with founder to design and build look of info-graphics and user interface, and other graphics for the application. Measureful was aquired by Chirpify in 20014.
 
 **New Relic** *(Rails/UI Developer)* | 06.12 - 03.13  
 Work with the Rails application that allows customers of New Relic to monitor their applications and servers. Built new features such as Custom Dashboards, Key Transactions and others. Also maintain and support the existing code-base on a day to day basis.
@@ -52,7 +52,7 @@ Received a bachelor's degree after completing a four year intensive graphic desi
 Ruby On Rails, Javascript, PHP, Node, jQuery, Backbone.js, Bootstrap, Jasmine, QUnit, HAML, SASS, CoffeeScript, CSS3, HTML5, MySQL, Photoshop, Illustrator, After Effects
 
 ##Areas of Expertise
-Developing rich client side applications driven from restful JSON server side endpoints. Test Driven Development on Backbone.js. A developer with a designers attention to detail. 
+Developing rich client side applications driven from restful JSON server side endpoints. Test Driven Development, elegent, maintainable Javascript solutions to client side problems. A developer with a designers attention to detail. 
 
 ##Awards 
 
