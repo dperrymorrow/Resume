@@ -1,13 +1,12 @@
 ##David Perry Morrow
 
-
-Info Links: | Personal Projects:
-
-<a href="mailto:dperrymorrow@gmail.com">dperrymorrow@gmail.com</a>
-<a href="http://newfinds.com" target="_blank">NewFinds.com</a>
-<a href="http://dperrymorrow.github.com/Resume/Resume.pdf" target="_blank">Resume as PDF</a>
-<a href="http://linkedin.com/in/davidmorrow" target="_blank">Linkedin</a>
-<a href="http://coderwall.com/dperrymorrow" target="_blank">Coderwall</a>
+[Email](mailto:dperrymorrow@gmail.com) | 
+[Twitter](https://twitter.com/dperrymorrow) | 
+[Newfinds.com](http://newfinds.com) | 
+[Github](https://github.com/dperrymorrow) | 
+[Resume as PDF](http://dperrymorrow.github.com/Resume/Resume.pdf) | 
+[LinkedIn](https://www.linkedin.com/in/davidmorrow) | 
+[Coderwall](http://coderwall.com/dperrymorrow)
 
 ##Work Experience
 
@@ -57,45 +56,47 @@ Developing rich client side applications driven from restful JSON server side en
 
 ##Awards 
 
-| Site                    | Awards                           |
-| ----------------------- | -------------------------------- |
-| **Mercedes AMG**        | Macromedia Site of the Day       |
-| **NikeBasketball.com**  | Flashforward 2003 _(gold)_       |
-|                         | Omni Awards *(gold)*             | 
-|                         | Clio Awards *(bronze)*           | 
-|                         | One Show Awards *(silver)*       | 
-|                         | Horizon Interactive *(gold)*     | 
-| **NikeRunning.com**     | Horizon Interactive *(gold)*     | 
-|                         | BDA Design Award *(gold)*        |
+**Mercedes AMG**: 
+Macromedia Site of the Day  
 
+**NikeBasketball.com**: 
+Flashforward 2003 _(gold)_, 
+Omni Awards *(gold)*, 
+Clio Awards *(bronze)*, 
+One Show Awards *(silver)*
 
-**NikeGoddess.com**  
+**NikeRunning.com**: 
+Horizon Interactive *(gold)*, 
+Horizon Interactive *(gold)*, 
+BDA Design Award *(gold)*  
+
+**NikeGoddess.com**: 
 BDA Design Award *(silver)*, 
 One Show *(silver)*, 
 Omni Awards *(silver)*, 
 Horizon Interactive *(gold)*, 
 Art Director Club *(merit)*
 
-**NikePresto.com**  
+**NikePresto.com**:  
 eDesign *(gold)*, 
 Clio Award *(bronze)*, 
-One Show *(gold)*, 
+Horizon Interactive *(gold)*, 
 Omni Awards *(gold)*, 
-Horizon Interactive *(gold)*, 
-BDA Design Award *(bronze)*, 
-ID Magazine *(silver)* , 
 One Show Awards *(gold)*, 
-Andy's *(gold)*, 
 Horizon Interactive *(gold)*, 
+One Show *(gold)*, 
+Andy's *(gold)*, 
+ID Magazine *(silver)* , 
 Art Director's Club *(silver)*
+BDA Design Award *(bronze)*, 
 
-**MetMuseum.com**  
+**MetMuseum.com**: 
 One Show *(bronze)*
 
-**Ted Conference Titles**  
+**Ted Conference Titles**: 
 Omni Awards: editing *(silver)*
 
-**AICP Award Ceremony Titles**  
+**AICP Award Ceremony Titles** 
 Omni Awards: graphics *(silver)*, 
 Omni Awards: Cinematography *(gold)*, 
 Omni Awards: communications *(gold)*
