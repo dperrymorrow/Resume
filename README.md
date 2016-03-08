@@ -10,7 +10,10 @@
 
 ##Work Experience
 
-**Measureful (now Chirpify)** *(Rails/UI Developer)* | 03.13 - Present  
+**WikiHow** *(Media Wiki/UI Developer)* | 11.14 - Present  
+Built and maintained application to manage the writing and approval of articles on WikiHow with its contractors. The app allowed over 300 contractors and WikiHow staff to collaborate effectivly on over 5,000 articles. It was built on top of Google Docs API, allowing writing and collaboration on Google docs directly in the application.
+
+**Measureful (now Chirpify)** *(Rails/UI Developer)* | 11.14 - Present  
 Developed and maintained Measureful.com web application. An early stage startup distilling client's analytics, and displaying them in a beautiful and concise way. Role included defining sprints and feature sets and rapidly prototyping and delivering them to growing customer base. Also worked closely with founder to design and build look of info-graphics and user interface, and other graphics for the application. Measureful was aquired by Chirpify in 20014.
 
 **New Relic** *(Rails/UI Developer)* | 06.12 - 03.13  
