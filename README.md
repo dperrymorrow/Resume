@@ -1,4 +1,4 @@
-##David Perry Morrow
+## David Perry Morrow
 
 [Email](mailto:dperrymorrow@gmail.com) | 
 [Twitter](https://twitter.com/dperrymorrow) | 
@@ -8,7 +8,7 @@
 [LinkedIn](https://www.linkedin.com/in/davidmorrow) | 
 [Coderwall](http://coderwall.com/dperrymorrow)
 
-##Work Experience
+## Work Experience
 
 **WikiHow** *(Media Wiki/UI Developer)* | 11.14 - Present  
 Built and maintained application to manage the writing and approval of articles on WikiHow with its contractors. The app allowed over 300 contractors and WikiHow staff to collaborate effectivly on over 5,000 articles. It was built on top of Google Docs API, allowing writing and collaboration on Google docs directly in the application.
