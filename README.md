@@ -47,17 +47,17 @@ I designed various sites for IBM including; IBM.com, pervasive computing, Linux,
 **Icon Nicholson** *(Designer / Production Artist)* | 05.96 - 06.99  
 I worked as a production artist supporting designers & art directors, and later as a designer. Partial client list includes; Metropolitan Museum of Art, Readers Digest, Thomas Register, and E-Trade.
 
-##Education
+## Education
 **School of Visual Arts Manhattan** *(BFA Graphic Design)* | 06.1999  
 Received a bachelor's degree after completing a four year intensive graphic design program. Areas of concentration during my thesis projects included packaging and editorial design.
 
-##Skills
+## Skills
 Ruby On Rails, Javascript, PHP, Node, jQuery, Backbone.js, Bootstrap, Jasmine, QUnit, HAML, SASS, CoffeeScript, CSS3, HTML5, MySQL, Photoshop, Illustrator, After Effects
 
-##Areas of Expertise
+## Areas of Expertise
 Developing rich client side applications driven from restful JSON server side endpoints. Test Driven Development, elegent, maintainable Javascript solutions to client side problems. A developer with a designers attention to detail. 
 
-##Awards 
+## Awards 
 
 **Mercedes AMG**: 
 Macromedia Site of the Day  
